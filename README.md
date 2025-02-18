@@ -138,19 +138,22 @@ Development of an innovative system to optimize energy efficiency in living spac
 
 - **Grade:** 1.7
 
-## Hobbies and Interests
+## 🎯 Hobbies & Interests  
 
-- Fitness
-- Hiking
-- Jogging
-- Video Games
-- Cinema
+- 🏋️ Fitness  
+- ⛰️ Hiking  
+- 🏃‍♂️ Jogging  
+- 🎮 Video Games  
+- 🎬 Cinema  
 
-## Languages
 
-- German | Fluent
-- English | Fluent
-- Arabic | Native
+## 🌍 Languages  
+
+- ![🇩🇪](https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ea.png) **German** — Fluent  
+- ![🇬🇧](https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png) **English** — Fluent  
+- ![🇸🇾](https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fe.png) **Arabic** — Native  
+  
+
 
 ### 📫 **Contact**
 - **Email**: yousefalswidan93@gmail.com
