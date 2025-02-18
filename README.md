@@ -1,142 +1,149 @@
-# 👋 Hi, I'm Yousef Al Swidan!
-Software developer with a Master's degree in Computer Science and practical experience in machine learning, image processing, and software development. Proficient in Python, Java, UI design, and agile methodologies. Passionate about developing innovative solutions for new challenges.
+# 👋 Hi, I'm Yousef Al Swidan!  
+🚀 **Software Developer**  
+
+🎓 **Master’s in Informatics** | Ostfalia University of Applied Sciences  
+💡 Passionate about developing innovative solutions in **software development, machine learning, and image processing**.  
+🛠️ Proficient in **Python, Java, UI design, and agile methodologies**.  
 
 ---
 
-### 🎓 **Education**
-- **Master’s in Informatics**  
+## 🎓 Education  
+
+- 🎓 **Master’s in Informatics**  
   *Ostfalia University of Applied Sciences*  
-  *Focus*: Systems and Computer Engineering
-  
-- **Bachelor’s in Computer Engineering**  
-  *Jordan University of Science and Technology*
+  **Focus:** Systems and Computer Engineering  
 
-### 💼 **Professional Experience**
-### Working Student as Software Developer
-**MICRONOVA AG**  
-*01.2023 – 10.2024*  
-Wolfsburg, Germany
-
-- **Tasks:**
-  - Requirements analysis.
-  - Implementation and continuous development of new features.
-  - Troubleshooting to improve system reliability.
-
-### Intern as Web Developer
-**AURORA: Video on Demand Solution**  
-*03.2019 – 12.2019*  
-Amman, Jordan
-
-- **Tasks:**
-  - Supporting the team in implementing new features.
-  - Troubleshooting.
-
-### Project Officer
-**NGO (AFAK) in Partnership with the WFP**  
-*01.2018 – 12.2018*  
-Amman, Jordan
-
-- **Tasks:**
-  - Management of the field team.
-  - Coordination with the local council.
-  - Report creation.
+- 🎓 **Bachelor’s in Computer Engineering**  
+  *Jordan University of Science and Technology*  
 
 
+## 💼 Professional Experience  
 
-### 🔧 **Skills**
-## Programming Languages & Frameworks
-- Python
-- Java
-- HTML5
-- CSS3
-- jQuery
-- JavaScript
-- React.js (Basic)
-- Flutter (Basic)
+### 🖥️ Working Student – Software Developer  
+**MicroNova AG** | *01.2023 – 10.2024* | Wolfsburg, Germany  
 
-## Data Science
-- Machine Learning
-- Image Processing
+🔹 **Responsibilities:**  
+- 📌 Requirements analysis.  
+- 🛠️ Implementation and continuous development of new features.  
+- 🐞 Troubleshooting to improve system reliability.  
 
-## UI/UX Design
-- UI Design (Figma)
+---  
 
-## Version Control & Collaboration Tools
-- Git
-- GitHub
-- Bitbucket
-- Confluence
-- Jira
+### 🌐 Intern – Web Developer  
+**Aurora (Video on Demand Solution)** | *03.2019 – 12.2019* | Amman, Jordan  
 
-### 📂 **Highlighted Projects**
-### ISO 26262 Self-Test-Tool
-**MicroNova AG, Wolfsburg**
+🔹 **Responsibilities:**  
+- 🚀 Supporting the team in implementing new features.  
+- 🔍 Troubleshooting and bug fixes.  
 
-Development of a custom graphical user interface (GUI) for analyzing external measurement data and generating reports.
+---  
 
-- **Technologies Used:** Python
+### 🤝 Project Officer  
+**NGO (AFAK) in Partnership with WFP** | *01.2018 – 12.2018* | Amman, Jordan  
 
-### Hitachi Green AI
-**MicroNova AG, Wolfsburg**
+🔹 **Responsibilities:**  
+- 👥 Management of the field team.  
+- 🔄 Coordination with the local council.  
+- 📑 Report creation and documentation.  
 
-Implementation of a power grids editor for energy distribution, connected with dynamically simulated loads, and development of three editors – Track, Trip, and Time Table – for a comprehensive vehicle simulation platform.
 
-- **Technologies Used:** Python, JavaScript, HTML5, CSS3, jQuery, Graphviz
+## 🔧 Skills  
 
-### CaringCaribou
-**MicroNova AG, Wolfsburg**
+### 💻 Programming Languages & Frameworks  
+- 🐍 Python  
+- ☕ Java  
+- 🌐 HTML5, CSS3, JavaScript, jQuery  
+- ⚛️ React.js *(Basic)*  
+- 🎯 Flutter *(Basic)*  
 
-Development of an interface with Vector CAN that enables real-time data exchange with connected systems.
+### 📊 Data Science  
+- 🤖 Machine Learning  
+- 🖼️ Image Processing  
 
-- **Technologies Used:** Python
+### 🎨 UI/UX Design  
+- 🖌️ UI Design *(Figma)*  
 
-### Master's Thesis
-**Ostfalia University, Wolfenbüttel**
+### 🔄 Version Control & Collaboration Tools  
+- 🌿 Git  
+- 🐙 GitHub  
+- 🔵 Bitbucket  
+- 📜 Confluence  
+- 📝 Jira  
 
-Design and implementation of a self-driving platform with auto-collision based on a LiDAR sensor, lane and object detection using image processing and machine learning techniques.
 
-- **Topics:**
-  - Collision detection and avoidance based on precisely analyzed LiDAR data.
-  - Lane detection using advanced image processing technologies.
-  - Object detection through the use of machine learning methods.
+## 📂 Highlighted Projects  
 
-- **Technologies Used:** Python, React.js, LiDAR A1M8, Raspberry Pi 5
+### 🚀 ISO 26262 Self-Test-Tool  
+**MicroNova AG, Wolfsburg**  
+Development of a custom **graphical user interface (GUI)** for analyzing external measurement data and generating reports.  
 
-- **Grade:** 1.0
+🛠️ **Technologies Used:** Python  
 
-### Master's Project
-**Ostfalia University, Wolfenbüttel**
+---  
 
-Development and design of a system for analyzing and visualizing color spectra with an integrated warning function for increased intensity of infrared or ultraviolet radiation.
+### ⚡ Hitachi Green AI  
+**MicroNova AG, Wolfsburg**  
+Implementation of a **power grids editor** for energy distribution, connected with dynamically simulated loads. Developed **Track, Trip, and Time Table editors** for a comprehensive vehicle simulation platform.  
 
-- **Technologies Used:** Python, Arduino Mega
+🛠️ **Technologies Used:** Python, JavaScript, HTML5, CSS3, jQuery, Graphviz  
 
-- **Grade:** 1.0
+---  
 
-### Master's Seminar
-**Ostfalia University, Wolfenbüttel**
+### 🔗 CaringCaribou  
+**MicroNova AG, Wolfsburg**  
+Development of an interface with **Vector CAN** that enables real-time data exchange with connected systems.  
 
-Topic: “Advanced Driver Assistance System”
+🛠️ **Technologies Used:** Python  
 
-- **Grade:** 1.7
+---  
 
-### Robotics Project “Sawyer as 3D Printer”
-**Ostfalia University, Wolfenbüttel**
+### 🎓 Master's Thesis  
+**Ostfalia University, Wolfenbüttel**  
+Design and implementation of a **self-driving platform** with **auto-collision detection**, utilizing **LiDAR sensor**, **lane detection**, and **object detection** through image processing and machine learning.  
 
-Development and design of an innovative system to transform an arm robot into a fully functional 3D printer. The robot's movements are executed with high precision based on G-code after processing and analyzing the required coordination data.
+🔹 **Key Topics:**  
+- Collision detection & avoidance using **LiDAR data**.  
+- Lane detection via **image processing**.  
+- Object detection powered by **machine learning**.  
 
-- **Technologies Used:** Python, ROS, a 3D printer set, Arduino Mega
+🛠️ **Technologies Used:** Python, React.js, LiDAR A1M8, Raspberry Pi 5  
+📌 **Grade:** `1.0`  
 
-- **Grade:** 1.3
+---  
 
-### IoT Project “Smart Home”
-**Ostfalia University, Wolfenbüttel**
+### 📊 Master's Project  
+**Ostfalia University, Wolfenbüttel**  
+Development and design of a **color spectrum analysis & visualization system** with an integrated warning function for **infrared/UV radiation intensity**.  
 
-Development of an innovative system to optimize energy efficiency in living spaces through the automated control of central household devices.
+🛠️ **Technologies Used:** Python, Arduino Mega  
+📌 **Grade:** `1.0`  
 
-- **Technologies Used:** Python, Docker, InfluxDB, Grafana, REST-API, Node-RED, ESP32
+---  
 
-- **Grade:** 1.7
+### 📖 Master's Seminar  
+**Ostfalia University, Wolfenbüttel**  
+**Topic:** *Advanced Driver Assistance System*  
+
+📌 **Grade:** `1.7`  
+
+---  
+
+### 🤖 Robotics Project – "Sawyer as 3D Printer"  
+**Ostfalia University, Wolfenbüttel**  
+Designed and developed an **innovative robotic system** that transforms a **Sawyer robotic arm into a 3D printer**, executing **G-code-based** high-precision movements.  
+
+🛠️ **Technologies Used:** Python, ROS, 3D Printer Set, Arduino Mega  
+📌 **Grade:** `1.3`  
+
+---  
+
+### 🏡 IoT Project – "Smart Home"  
+**Ostfalia University, Wolfenbüttel**  
+Developed a **smart home system** for optimizing **energy efficiency** by automating central household devices.  
+
+🛠️ **Technologies Used:** Python, Docker, InfluxDB, Grafana, REST API, Node-RED, ESP32  
+📌 **Grade:** `1.7`  
+
 
 ## 🎯 Hobbies & Interests  
 
@@ -148,10 +155,10 @@ Development of an innovative system to optimize energy efficiency in living spac
 
 
 ## 🌍 Languages  
+- 🇩🇪 German — Fluent  
+- 🇬🇧 English — Fluent  
+- 🇸🇾 Arabic — Native  
 
-- ![🇩🇪](https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ea.png) **German** — Fluent  
-- ![🇬🇧](https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png) **English** — Fluent  
-- ![🇸🇾](https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fe.png) **Arabic** — Native  
   
 
 
