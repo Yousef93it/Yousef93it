@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Yousef Al Swidan!
+Software developer with a Master's degree in Computer Science and practical experience in machine learning, image processing, and software development. Proficient in Python, Java, UI design, and agile methodologies. Passionate about developing innovative solutions for new challenges.
 
 ---
 
